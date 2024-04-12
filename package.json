@@ -1,8 +1,8 @@
 {
   "name": "react-native-glass-view",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Glass View",
-  "main": "index.js",
+  "main": "GlassView.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +15,8 @@
     "react-native": "0.73.6"
   },
   "keywords": [
-    "glassview",
     "glass",
-    "view",
+    "glassmorphism",
     "glass-view",
     "glass-morphism"
   ],
