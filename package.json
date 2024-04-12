@@ -11,7 +11,6 @@
     "url": "git+https://github.com/se-ajayp/react-native-glass-view.git"
   },
   "peerDependencies": {
-    "@react-native-community/blur": "4.4.0",
     "react": "18.2.0",
     "react-native": "0.73.6"
   },
