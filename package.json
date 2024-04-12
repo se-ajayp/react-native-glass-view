@@ -1,0 +1,31 @@
+{
+  "name": "react-native-glass-view",
+  "version": "0.0.1",
+  "description": "Glass View",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/se-ajayp/react-native-glass-view.git"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "@react-native-community/blur": "4.4.0"
+  },
+  "keywords": [
+    "glassview",
+    "glass",
+    "view",
+    "glass-view",
+    "glass-morphism"
+  ],
+  "author": "se-ajayp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/se-ajayp/react-native-glass-view/issues"
+  },
+  "homepage": "https://github.com/se-ajayp/react-native-glass-view#readme"
+}
