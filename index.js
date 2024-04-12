@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
-
+import { BlurView } from '@react-native-community/blur';
 const GlassView = ({ children }) => {
     return (
         <View style={styles.container}>
